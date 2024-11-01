@@ -1,4 +1,4 @@
-import QrReader from "react-qr-reader";
+import QrReader from "react-qr-barcode-scanner";
 
 function QRCodeScanner() {
   const handleScan = (data) => {
